@@ -3,6 +3,9 @@
 const user = {
     firstName: "Md. Abdullah",
     // middleName : "Ibn",
-    lastName: "Noor"
+    lastName: "Noor",
+    company: "Fit For Life",
+    isMarried: true
 };
+user.middleName = "PH";
 console.log(user);
